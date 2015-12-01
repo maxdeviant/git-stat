@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "directories": {
+    "bin": "./bin"
+  },
+  "preferGlobal": "true",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maxdeviant/git-stat.git"
@@ -15,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/maxdeviant/git-stat/issues"
   },
-  "homepage": "https://github.com/maxdeviant/git-stat#readme"
+  "homepage": "https://github.com/maxdeviant/git-stat#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
 }
