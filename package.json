@@ -1,0 +1,19 @@
+{
+  "name": "git-stat",
+  "version": "1.0.0",
+  "description": "Statistic generation for Git.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxdeviant/git-stat.git"
+  },
+  "author": "Marshall Bowers <elliott.codes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxdeviant/git-stat/issues"
+  },
+  "homepage": "https://github.com/maxdeviant/git-stat#readme"
+}
